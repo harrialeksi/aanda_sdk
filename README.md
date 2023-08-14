@@ -4,7 +4,7 @@
 
 ### Install
 ```
-go get github.com/tmconsulting/aanda-golang-sdk
+go get github.com/shinyhawk/aanda_sdk
 ```
 
 ### Import

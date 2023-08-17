@@ -13,7 +13,7 @@ import (
     "context"
     "log"
     
-    "github.com/tmconsulting/aanda-golang-sdk"
+    "github.com/shinyhawk/aanda_sdk"
 )
 ```
 
